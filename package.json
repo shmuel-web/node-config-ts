@@ -7,7 +7,7 @@
     "minimist": "^1.2.0",
     "module-exists": "^0.2.0",
     "ramda": "^0.25.0",
-    "webpack": "^4.17.1"
+    "webpack": "^4.20.0"
   },
   "scripts": {
     "test": "mocha",
