@@ -23,7 +23,7 @@
     "@types/ramda": "^0.25.32",
     "cz-conventional-changelog": "^2.1.0",
     "mocha": "^5.0.0",
-    "semantic-release": "^15.9.9",
+    "semantic-release": "^15.9.17",
     "travis-deploy-once": "^5.0.3",
     "ts-node": "^6.0.0",
     "typescript": "^3.0.1"
